@@ -20,5 +20,4 @@ The predictive model is constructed using the `fastai` library's `TabularPandas`
 - **Model Evaluation**: Assessing the model using RMSE and visual comparisons of predicted vs. actual prices.
 
 ### Web Application
-The model is deployed as a web application using Gradio, allowing users to input relevant details and receive HDB resale price predictions. You can find the model at [https://huggingface.co/spaces/bhh97/HDB-Resale-Prediction](https://huggingface.co/spaces/bhh97/HDB_Resale_Pred)https://huggingface.co/spaces/bhh97/HDB_Resale_Pred
-
+The model is deployed as a web application using Gradio, allowing users to input relevant details and receive HDB resale price predictions. You can find the model at https://huggingface.co/spaces/bhh97/HDB_Resale_Pred
