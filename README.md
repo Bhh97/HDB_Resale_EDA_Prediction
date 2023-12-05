@@ -1,8 +1,7 @@
 # HDB Resale Price Prediction
 
 ## Overview
-This repository contains the code for a predictive model and web application for estimating the resale prices of HDB (Housing & Development Board) flats in Singapore. The model, trained on HDB resale transaction records from 2017 to 2020, is deployed using Gradio for an interactive and user-friendly web interface.
-
+This repository contains the code for a predictive model and web application for estimating the resale prices of HDB (Housing & Development Board) flats in Singapore. The model, trained on HDB resale transaction records from 2017 to 2020, is deployed using Gradio. The dataset can be found @ https://www.kaggle.com/datasets/teyang/singapore-hdb-flat-resale-prices-19902020
 ## Project Description
 The goal of this project is to explore insights into the HDB resale market and provide a model for predicting resale prices based on various factors such as location, flat type, floor area, and more.
 
